@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92540244973",
+    "project_id": "chathub-b1269",
+    "storage_bucket": "chathub-b1269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92540244973:android:9eb019938ffc72cdad0de4",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.ChatHub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92540244973-ao1r1fm6uh8rkrtemd6a4aouf6dguu2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5GZksGpBZHejTtt6fPw7UW0KqmQsYiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92540244973-ao1r1fm6uh8rkrtemd6a4aouf6dguu2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
